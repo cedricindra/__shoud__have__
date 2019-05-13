@@ -1,0 +1,37 @@
+{
+  "name": "shouldhavebot",
+  "version": "1.0.0",
+  "description": "Reddit 'should of' to 'should have' bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app & code ."
+  },
+  "devDependencies": {
+    "eslint": "^4.1.1",
+    "eslint-config-google": "^0.8.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedricindra/__should__have__.git"
+  },
+  "keywords": [
+    "reddit",
+    "bot",
+    "should",
+    "have",
+    "replier"
+  ],s
+  "author": "Const Manos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cedricindra/__shoud__have__/issues"
+  },
+  "homepage": "https://github.com/cedricindra/__shoud__have__#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "opn": "^5.4.0",
+    "play": "^0.5.0",
+    "snoostorm": "0.0.5",
+    "snoowrap": "^1.15.2"
+  }
+}
